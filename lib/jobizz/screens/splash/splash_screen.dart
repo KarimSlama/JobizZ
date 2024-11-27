@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:jobizz/jobizz/screens/on_boarding/on_boarding_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -61,7 +62,7 @@ class _SplashScreenState extends State<SplashScreen> {
               );
             },
             pageBuilder: (context, animation, secondaryAnimation) =>
-                const SplashScreen(),
+                const OnBoardingScreen(),
           ),
           (route) => false),
     );
