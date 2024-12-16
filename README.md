@@ -11,13 +11,14 @@ Jobizz offers resources such as interview preparation tips, career development a
 Whether you’re launching your career or seeking the next big opportunity, Jobizz is your go-to companion for professional growth and success.
 
 🎯 Important Features
-Search your job: Figure out your top five priorities whether it is company culture, salary.
+
+## Search your job: Figure out your top five priorities whether it is company culture, salary.
 
 ## Browse jobs list:
 Our job list includes several industries, so you can find the best job.
 
 ## Apply to the best jobs: 
-You can apply to your desired jobs very quickly and easily with ease.
+You can apply for your desired jobs very quickly and easily with ease.
 
 ## Make your career: 
 We help you find your dream job based on your skillset, location, and demand.
