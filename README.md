@@ -12,7 +12,8 @@ Whether you’re launching your career or seeking the next big opportunity, Jobi
 
 🎯 Important Features
 
-## Search your job: Figure out your top five priorities whether it is company culture, salary.
+## Search your job: 
+Figure out your top five priorities whether it is company culture, salary.
 
 ## Browse jobs list:
 Our job list includes several industries, so you can find the best job.
